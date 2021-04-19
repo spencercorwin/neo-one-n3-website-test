@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///builder.init.ts"],"names":["expose","self"],"mappings":"wDAAA,2BAGA,EAAQA,OAAO,UAASC","file":"workers.20.58172f43.js","sourcesContent":["import { Builder } from '@neo-one/local-browser';\nimport { comlink } from '@neo-one/worker';\n\ncomlink.expose(Builder, self);\n"],"sourceRoot":""}

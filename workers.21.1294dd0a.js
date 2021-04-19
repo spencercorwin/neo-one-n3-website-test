@@ -1,0 +1,2 @@
+self.webpackChunk([21],{85:function(e,r,n){"use strict";n.r(r);n(122);var t=n(274),s=n(513);Object(t.registerWorkerPouch)(self,(function(){for(var e=arguments.length,r=new Array(e),n=0;n<e;n++)r[n]=arguments[n];const t=new s.a(...r);return t.setMaxListeners(100),t}))}});
+//# sourceMappingURL=workers.21.1294dd0a.js.map
